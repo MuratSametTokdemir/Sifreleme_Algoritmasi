@@ -1,0 +1,17 @@
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\bin\Debug\net6.0-windows\Sifreleme_Algoritması.exe
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\bin\Debug\net6.0-windows\Sifreleme_Algoritması.deps.json
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\bin\Debug\net6.0-windows\Sifreleme_Algoritması.runtimeconfig.json
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\bin\Debug\net6.0-windows\Sifreleme_Algoritması.dll
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\bin\Debug\net6.0-windows\Sifreleme_Algoritması.pdb
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.Form1.resources
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.AssemblyInfo.cs
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.dll
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\refint\Sifreleme_Algoritması.dll
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.pdb
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\Sifreleme_Algoritması.genruntimeconfig.cache
+C:\Users\murat\Desktop\Kriptolojiye_Giriş_Proje\Sifreleme_Algoritması\Sifreleme_Algoritması\obj\Debug\net6.0-windows\ref\Sifreleme_Algoritması.dll
